@@ -1,0 +1,4 @@
+name: OnePlayerAPI
+version: '${project.version}'
+main: fr.onelords.oneplayerapi.OnePlayerAPI
+api-version: '1.19'
